@@ -5,6 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "MyWhooshSampleFrameWork",
+    platforms: [.iOS(.v15)], // or whatever minimum you support
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
