@@ -1,6 +1,0 @@
-framework module MyWhooshSampleFrameWork {
-  umbrella header "MyWhooshSampleFrameWork.h"
-  export *
-
-  module * { export * }
-}
