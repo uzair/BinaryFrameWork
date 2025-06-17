@@ -56,33 +56,6 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "sayCheese",
-            "printedName": "sayCheese(name:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:23MyWhooshSampleFrameWork0abC0C9sayCheese4nameS2S_tF",
-            "mangledName": "$s23MyWhooshSampleFrameWork0abC0C9sayCheese4nameS2S_tF",
-            "moduleName": "MyWhooshSampleFrameWork",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",

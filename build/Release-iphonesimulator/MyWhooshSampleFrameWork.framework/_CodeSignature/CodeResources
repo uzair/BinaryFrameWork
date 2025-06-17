@@ -14,19 +14,19 @@
 		</data>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		VtBVCbUzDoBXy7ItNfLGKCx8Nyw=
+		hEYfcx70SxiBwkbUs1OMBr/jovQ=
 		</data>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		YC0x599b/DJY7H5R/99XtO2Ma3w=
+		hIrePchYu7j/Sd03AubZb7HQLUE=
 		</data>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		C1isCVaoYF2lpyxZwcPL0l+/NEs=
+		vW0gD1/S6dODEFm9v+GIGL/Q6b4=
 		</data>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		eMogs6nneAJ70y63d5CoLppL66o=
+		1SAVGLjgbxRYvXXu1lXGnq8KJMw=
 		</data>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		eMogs6nneAJ70y63d5CoLppL66o=
+		1SAVGLjgbxRYvXXu1lXGnq8KJMw=
 		</data>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0lqsZOSR1hsQorfcOOklUI0qyA8=
+		gq3TJYDTDKhUfyWIyysAnlHxMdw=
 		</data>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		C1isCVaoYF2lpyxZwcPL0l+/NEs=
+		vW0gD1/S6dODEFm9v+GIGL/Q6b4=
 		</data>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		hevUWaFISWd9n19sJQONh2XwEzQ=
+		30utoQjQBsKzOX1E4X3ifsU/Yd4=
 		</data>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		hevUWaFISWd9n19sJQONh2XwEzQ=
+		30utoQjQBsKzOX1E4X3ifsU/Yd4=
 		</data>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		KiOWOEzrexW11S3JmaWVOKQsuJo=
+		T5FHpe9ePtKcGcKyqznhYac5iOc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,28 +78,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LqZP2WDi+2kLIHgUaHNZ6utCpU1szODzI14NTH4hFko=
+			Vou9/SLAav38M+wasEQG0xhbsPtzHt7293Ybe1cjKSM=
 			</data>
 		</dict>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uI81fly6I5zkrIJy3JmtxRW2n2xUVXTCmx8bVVnV0Pw=
+			h12E+jPm/Zk1HsIFNwsm3NlhdVG5yTsyND69ROMxU5k=
 			</data>
 		</dict>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EbAd4Yw7Hbaei6mirT+Ks8DZ4xkZNVDShyT3aRDNkoo=
+			RNJ90+9R+d6cougsWsw1+PIiMqMYCNfQmL9M/y13fJo=
 			</data>
 		</dict>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eTzWUgpGzVAkWJmMxCfVb4WhqQv9CR/QbcCqrifZFK0=
+			hQW31uDsJFbMYjBjhAEbvsTEvYNpIvVpvx91gryERi8=
 			</data>
 		</dict>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -113,28 +113,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eTzWUgpGzVAkWJmMxCfVb4WhqQv9CR/QbcCqrifZFK0=
+			hQW31uDsJFbMYjBjhAEbvsTEvYNpIvVpvx91gryERi8=
 			</data>
 		</dict>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rWJmhN1IDRnA6iYMiIpMqsGyfxf8Xuxf/ESqX6B69u4=
+			n7cJnlvuFrvTvGOAlwffjBudz1LroCIAl+vY1TNJFkg=
 			</data>
 		</dict>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EbAd4Yw7Hbaei6mirT+Ks8DZ4xkZNVDShyT3aRDNkoo=
+			RNJ90+9R+d6cougsWsw1+PIiMqMYCNfQmL9M/y13fJo=
 			</data>
 		</dict>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5hMgYwMkKfrmdNJCOTTIz+egVAs55mSES+L7VjVyD8s=
+			NaWlPipEQljstjqhZN1Vccz3Dw6CKV1zI7gl+OaO21w=
 			</data>
 		</dict>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -148,14 +148,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5hMgYwMkKfrmdNJCOTTIz+egVAs55mSES+L7VjVyD8s=
+			NaWlPipEQljstjqhZN1Vccz3Dw6CKV1zI7gl+OaO21w=
 			</data>
 		</dict>
 		<key>Modules/MyWhooshSampleFrameWork.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xA2lMtjwGo4IGFzDe3oLU4HCX8uFF1UWHkOTtpvuWYU=
+			IFA3Tnn7NKNzxQIan2g7oMcxahAkOsnFml9vzslHO+M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

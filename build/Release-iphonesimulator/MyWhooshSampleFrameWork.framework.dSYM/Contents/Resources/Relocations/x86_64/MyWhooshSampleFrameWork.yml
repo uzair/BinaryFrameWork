@@ -2,13 +2,15 @@
 triple:          'x86_64-apple-darwin'
 binary-path:     '/Users/uzairshahzad/Documents/FrameWorkPoc/build/Release-iphonesimulator/MyWhooshSampleFrameWork.framework/MyWhooshSampleFrameWork'
 relocations:
-  - { offset: 0x3423F, size: 0x8, addend: 0x0, symName: _MyWhooshSampleFrameWorkVersionString, symObjAddr: 0x0, symBinAddr: 0x2B40, symSize: 0x0 }
-  - { offset: 0x34273, size: 0x8, addend: 0x0, symName: _MyWhooshSampleFrameWorkVersionNumber, symObjAddr: 0x48, symBinAddr: 0x2B88, symSize: 0x0 }
-  - { offset: 0x342B3, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork7Sample133_C18369574352BB6A320E0FF693AC1B21LLCfD', symObjAddr: 0x0, symBinAddr: 0x1B20, symSize: 0x20 }
-  - { offset: 0x342F0, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork7Sample133_C18369574352BB6A320E0FF693AC1B21LLCMa', symObjAddr: 0x20, symBinAddr: 0x1B40, symSize: 0x20 }
-  - { offset: 0x34303, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork7Sample233_C18369574352BB6A320E0FF693AC1B21LLCMa', symObjAddr: 0x40, symBinAddr: 0x1B60, symSize: 0x20 }
-  - { offset: 0x3431D, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork7Sample133_C18369574352BB6A320E0FF693AC1B21LLCfD', symObjAddr: 0x0, symBinAddr: 0x1B20, symSize: 0x20 }
-  - { offset: 0x34433, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork0abC0CMa', symObjAddr: 0xE0, symBinAddr: 0x1C30, symSize: 0x20 }
-  - { offset: 0x3444E, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork0abC0CACycfC', symObjAddr: 0x0, symBinAddr: 0x1B90, symSize: 0x20 }
-  - { offset: 0x34461, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork0abC0CACycfc', symObjAddr: 0x20, symBinAddr: 0x1BB0, symSize: 0x10 }
+  - { offset: 0x3423F, size: 0x8, addend: 0x0, symName: _MyWhooshSampleFrameWorkVersionString, symObjAddr: 0x0, symBinAddr: 0x2B50, symSize: 0x0 }
+  - { offset: 0x34273, size: 0x8, addend: 0x0, symName: _MyWhooshSampleFrameWorkVersionNumber, symObjAddr: 0x48, symBinAddr: 0x2B98, symSize: 0x0 }
+  - { offset: 0x342B3, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork7Sample133_C18369574352BB6A320E0FF693AC1B21LLCfD', symObjAddr: 0x0, symBinAddr: 0x1B50, symSize: 0x20 }
+  - { offset: 0x342F0, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork7Sample133_C18369574352BB6A320E0FF693AC1B21LLCMa', symObjAddr: 0x20, symBinAddr: 0x1B70, symSize: 0x20 }
+  - { offset: 0x34303, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork7Sample233_C18369574352BB6A320E0FF693AC1B21LLCMa', symObjAddr: 0x40, symBinAddr: 0x1B90, symSize: 0x20 }
+  - { offset: 0x3431D, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork7Sample133_C18369574352BB6A320E0FF693AC1B21LLCfD', symObjAddr: 0x0, symBinAddr: 0x1B50, symSize: 0x20 }
+  - { offset: 0x343BA, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork0abC0CACycfC', symObjAddr: 0x0, symBinAddr: 0x1BC0, symSize: 0x20 }
+  - { offset: 0x34488, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork0abC0CMa', symObjAddr: 0xC0, symBinAddr: 0x1C50, symSize: 0x20 }
+  - { offset: 0x344A3, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork0abC0CACycfC', symObjAddr: 0x0, symBinAddr: 0x1BC0, symSize: 0x20 }
+  - { offset: 0x344B6, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork0abC0CACycfc', symObjAddr: 0x20, symBinAddr: 0x1BE0, symSize: 0x10 }
+  - { offset: 0x34567, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork0abC0C8sayHello4nameS2S_tF', symObjAddr: 0x30, symBinAddr: 0x1BF0, symSize: 0x60 }
 ...

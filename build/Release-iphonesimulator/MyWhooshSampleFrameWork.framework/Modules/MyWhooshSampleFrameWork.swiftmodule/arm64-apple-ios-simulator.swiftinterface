@@ -9,6 +9,5 @@ import _SwiftConcurrencyShims
 public class MyWhooshSample {
   public init()
   public func sayHello(name: Swift.String) -> Swift.String
-  public func sayCheese(name: Swift.String) -> Swift.String
   @objc deinit
 }
