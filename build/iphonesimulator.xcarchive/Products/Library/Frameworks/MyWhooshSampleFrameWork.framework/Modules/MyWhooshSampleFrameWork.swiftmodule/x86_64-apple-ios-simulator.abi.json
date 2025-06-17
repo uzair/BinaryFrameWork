@@ -1,0 +1,117 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "MyWhooshSampleFrameWork",
+    "printedName": "MyWhooshSampleFrameWork",
+    "children": [
+      {
+        "kind": "TypeDecl",
+        "name": "MyWhooshSample",
+        "printedName": "MyWhooshSample",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MyWhooshSample",
+                "printedName": "MyWhooshSampleFrameWork.MyWhooshSample",
+                "usr": "s:23MyWhooshSampleFrameWork0abC0C"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:23MyWhooshSampleFrameWork0abC0CACycfc",
+            "mangledName": "$s23MyWhooshSampleFrameWork0abC0CACycfc",
+            "moduleName": "MyWhooshSampleFrameWork",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "sayHello",
+            "printedName": "sayHello(name:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:23MyWhooshSampleFrameWork0abC0C8sayHello4nameS2S_tF",
+            "mangledName": "$s23MyWhooshSampleFrameWork0abC0C8sayHello4nameS2S_tF",
+            "moduleName": "MyWhooshSampleFrameWork",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "sayCheese",
+            "printedName": "sayCheese(name:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:23MyWhooshSampleFrameWork0abC0C9sayCheese4nameS2S_tF",
+            "mangledName": "$s23MyWhooshSampleFrameWork0abC0C9sayCheese4nameS2S_tF",
+            "moduleName": "MyWhooshSampleFrameWork",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:23MyWhooshSampleFrameWork0abC0C",
+        "mangledName": "$s23MyWhooshSampleFrameWork0abC0C",
+        "moduleName": "MyWhooshSampleFrameWork",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

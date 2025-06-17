@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/uzairshahzad/Library/Developer/Xcode/DerivedData/MyWhooshSampleFrameWork-fviefdolkallbmhcngmijtdyzazb/Build/Intermediates.noindex/ArchiveIntermediates/MyWhooshSampleFrameWork/InstallationBuildProductsLocation/Library/Frameworks/MyWhooshSampleFrameWork.framework/MyWhooshSampleFrameWork'
+relocations:
+  - { offset: 0x32B47, size: 0x8, addend: 0x0, symName: _MyWhooshSampleFrameWorkVersionString, symObjAddr: 0x0, symBinAddr: 0x3B30, symSize: 0x0 }
+  - { offset: 0x32B7B, size: 0x8, addend: 0x0, symName: _MyWhooshSampleFrameWorkVersionNumber, symObjAddr: 0x48, symBinAddr: 0x3B78, symSize: 0x0 }
+  - { offset: 0x32BBB, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork7Sample133_C18369574352BB6A320E0FF693AC1B21LLCfD', symObjAddr: 0x0, symBinAddr: 0x2C38, symSize: 0x10 }
+  - { offset: 0x32BF8, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork7Sample133_C18369574352BB6A320E0FF693AC1B21LLCMa', symObjAddr: 0x10, symBinAddr: 0x2C48, symSize: 0x20 }
+  - { offset: 0x32C0B, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork7Sample233_C18369574352BB6A320E0FF693AC1B21LLCMa', symObjAddr: 0x30, symBinAddr: 0x2C68, symSize: 0x20 }
+  - { offset: 0x32C25, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork7Sample133_C18369574352BB6A320E0FF693AC1B21LLCfD', symObjAddr: 0x0, symBinAddr: 0x2C38, symSize: 0x10 }
+  - { offset: 0x32D3B, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork0abC0CMa', symObjAddr: 0x94, symBinAddr: 0x2D04, symSize: 0x20 }
+  - { offset: 0x32D56, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork0abC0CACycfC', symObjAddr: 0x0, symBinAddr: 0x2C8C, symSize: 0x10 }
+  - { offset: 0x32D69, size: 0x8, addend: 0x0, symName: '_$s23MyWhooshSampleFrameWork0abC0CACycfc', symObjAddr: 0x10, symBinAddr: 0x2C9C, symSize: 0x8 }
+...
