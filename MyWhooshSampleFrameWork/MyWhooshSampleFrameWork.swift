@@ -13,10 +13,6 @@ public class MyWhooshSample {
         return logic(for: name)
     }
     
-    public func sayCheese(name: String) -> String {
-        return logic(for: name)
-    }
-    
     // Not visible to consumer
     private func logic(for name: String) -> String {
         return "Hello, \(name) 👋"
