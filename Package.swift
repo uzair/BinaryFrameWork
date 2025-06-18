@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MyWhooshSampleFrameWork",
-            url: "https://github.com/uzair/BinaryFrameWork/releases/download/2.0.3/MyWhooshSampleFrameWork.xcframework.zip",
-            checksum: "c9b0134c40974332931b674e0ff0d0e2670a27ec0d0ac7ad686be77c8a154b5f"
+            url: "https://github.com/uzair/BinaryFrameWork/releases/download/2.0.4/MyWhooshSampleFrameWork.xcframework.zip",
+            checksum: "0d6a83b3b41f8e105bab0dd3b8fbf2456edd1a85565a03f01e8532d2ebe25b5d"
         )
     ]
 )
